@@ -1,6 +1,6 @@
 Style.js
-var name="vaishnavi S";
-const dob="09.11.2005"
+var name="Keerthiga A";
+const dob="28.08.2005"
 console.log(first_name,last-name);
 new.html
 <!DOCTYPE html>
@@ -27,7 +27,7 @@ Index.html
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>VAISHNAVI S Digital Portfolio</title>
+    <title>KEERTHIGA A Digital Portfolio</title>
     <link rel="stylesheet" href="script.css">
     <LINK:favicon></LINK:favicon>
     </head>
@@ -37,7 +37,7 @@ Index.html
     
     <div class="header-content">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwo5cJhu36dJfwZsQD-y_J8YFRgH57-l-A1VB6zE1UlCduR9Gjc-m4COd5qxcSeEtHWWo&usqp=CAU" alt="My pic" class="profile-picture">
-        <h1>VAISHNAVI S</h1>
+        <h1>KEERTHIGA A</h1>
     </div>
     
 </header>
@@ -53,9 +53,9 @@ Index.html
 </nav>    
 <section id="about">
     <div class="section-content">
-        <h2>About VAISHNAVI S</h2>
+        <h2>About KEERTHIGA A</h2>
         <p style="text-align: justify;">
-            VAISHNAVI S, DEPARTMENT OF COMPUTER SCIENCE ,Dr.R.V Arts and Science college.
+            KEERTHIGA A , DEPARTMENT OF COMPUTER SCIENCE ,Dr.R.V Arts and Science college.
         </p>
     </div>
 </section>
@@ -119,7 +119,7 @@ Index.html
     </div>
 </section>
 <footer>
-    <p>&copy;2024 VAISHNAVI S</p>
+    <p>&copy;2024 KEERTHIGA  A </p>
 </footer>
 <script src="script.css"></script>
 </body>
